@@ -1,12 +1,11 @@
 This project requires create-react-app to be installed: [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### demo:
-http://code42.zerostatic.com/
-
 ### about:
-React / Redux using the GitHub public api to display member data from the Code42 GitHub page.
+
+Example React / Redux using the GitHub public api to display GitHub member data
 
 ### features:
+
 - Loads data from the GitHub public api
 - Uses local data if already downloaded
 - Redux for state management
