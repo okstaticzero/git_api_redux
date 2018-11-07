@@ -1,0 +1,14 @@
+.user-photo{
+  width:160px;
+}
+
+.user-repo-list{
+  list-style: none;
+  padding-left: 0;
+}
+.spinner-outer{
+  width:100%;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}

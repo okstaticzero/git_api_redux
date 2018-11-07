@@ -1,0 +1,30 @@
+.nav{
+  
+
+}
+.userList{
+  list-style: none;
+  text-align: left;
+  padding:20px;
+}
+
+
+.userList li{
+  margin-top: 20px;
+}
+.userList a{
+  text-decoration: none;
+  color:#666;
+}
+.userList .selected{
+  color:#CCC;
+  background-color: #666
+}
+.btn {
+  padding:8px 40px;
+}
+
+.btn-default.focus, .btn-default:focus {
+  background-color: #FFF;
+  border-color:#CCC;
+}
